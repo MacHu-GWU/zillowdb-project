@@ -1,0 +1,9 @@
+chardet
+requests
+beautifulsoup4>=4.5.3
+pymongo
+mongoengine
+selenium
+crawl_trulia
+crawl_zillow
+macro

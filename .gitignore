@@ -1,3 +1,12 @@
+# User Settings
+*.log
+*.exe
+*.html
+*.zip
+
+build/
+tests/
+
 # Windows image file caches
 Thumbs.db
 ehthumbs.db
